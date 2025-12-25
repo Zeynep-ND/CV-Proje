@@ -11,7 +11,7 @@ Bu repository, kariyer planlama ödevim kapsamında oluşturulmuştur. İçerisi
 ### ⚙️ Nasıl Çalıştırılır?
 1. Dosyaları bilgisayarınıza indirin.
 2. `index.html` dosyasına çift tıklayarak tarayıcıda görüntüleyin.
-3. Veya [buraya tıklayarak]([https://zeynep-nd.github.io](https://zeynep-nd.github.io/CV-Proje/)) canlı halini görün.
+3. Veya [buraya tıklayarak](https://zeynep-nd.github.io/CV-Proje/) canlı halini görün.
 
 ### 📑 Özgeçmiş
 * [PDF Özgeçmişimi Görüntüle](ÖZGEÇMİŞİM.pdf)
