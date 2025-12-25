@@ -18,3 +18,8 @@ Bu bir web projesi olduğu için herhangi bir kurulum gerektirmez. Projeyi gör�
 3. Proje, varsayılan tarayıcınızda otomatik olarak açılacaktır.
 
 *Alternatif olarak: VS Code kullanıyorsanız "Live Server" eklentisi ile sağ alt köşedeki "Go Live" butonuna tıklayarak başlatabilirsiniz.*
+
+## 📄 Özgeçmiş (CV)
+Projeyle ilgili detayların yanı sıra, güncel özgeçmişime aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+* [CV'mi Görüntüle (PDF)](Ad_Soyad_CV.pdf)
