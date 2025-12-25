@@ -22,4 +22,4 @@ Bu bir web projesi olduğu için herhangi bir kurulum gerektirmez. Projeyi gör�
 ## 📄 Özgeçmiş (CV)
 Projeyle ilgili detayların yanı sıra, güncel özgeçmişime aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-* [CV'mi Görüntüle (PDF)](Ad_Soyad_CV.pdf)
+* [CV'mi Görüntüle (PDF)](ÖZGEÇMİŞİM.pdf)
