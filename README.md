@@ -1,25 +1,17 @@
 # CV-Proje
 Bu proje, Kariyer Planlama dersi kapsamında geliştirilen bir  uygulamadır
-# 🚀 CV Hazırlama
+# Kariyer Planlama ve Portfolyo Projesi
 
-Bu proje, öğrencilerin yada iş arayanların HTML5 ile cv hazırlamasına yardımcı olmaktadır 
+Bu repository, kariyer planlama ödevim kapsamında oluşturulmuştur. İçerisinde özgeçmişim ve temel web geliştirme becerilerimi gösteren bir çalışma yer almaktadır.
 
 ### 🛠 Kullanılan Teknolojiler
-* **Dil:** HTML5
-* **IDE:** VS Code 
-* **Versiyon Kontrol:** Git & GitHub
+* **HTML5:** Sayfa yapısı ve içerik yönetimi.
+* **CSS3:** Sayfa düzeni ve görsel tasarım.
 
 ### ⚙️ Nasıl Çalıştırılır?
+1. Dosyaları bilgisayarınıza indirin.
+2. `index.html` dosyasına çift tıklayarak tarayıcıda görüntüleyin.
+3. Veya [buraya tıklayarak](https://zeynep-nd.github.io) canlı halini görün.
 
-Bu bir web projesi olduğu için herhangi bir kurulum gerektirmez. Projeyi görüntülemek için:
-
-1. Bu repository'i bilgisayarınıza indirin veya klonlayın.
-2. Proje klasörünün içindeki `index.html` dosyasına çift tıklayın.
-3. Proje, varsayılan tarayıcınızda otomatik olarak açılacaktır.
-
-*Alternatif olarak: VS Code kullanıyorsanız "Live Server" eklentisi ile sağ alt köşedeki "Go Live" butonuna tıklayarak başlatabilirsiniz.*
-
-## 📄 Özgeçmiş (CV)
-Projeyle ilgili detayların yanı sıra, güncel özgeçmişime aşağıdaki bağlantıdan ulaşabilirsiniz:
-
-* [CV'mi Görüntüle (PDF)](ÖZGEÇMİŞİM.pdf)
+### 📑 Özgeçmiş
+* [PDF Özgeçmişimi Görüntüle](ÖZGEÇMİŞİM.pdf)
